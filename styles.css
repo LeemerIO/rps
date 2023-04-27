@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+
+div {
+    display: flex;
+    border: 1px solid red;
+    justify-content: center;
+    padding: 30px;
+}
+
+* {
+    padding: 20px;
+}
